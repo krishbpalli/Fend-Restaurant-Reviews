@@ -1,7 +1,6 @@
 let restaurants;
 let neighborhoods;
 let cuisines;
-let newMap;
 const markers = [];
 
 /**
